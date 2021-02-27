@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course (2019 Update!)
 
-2.4 Protection with PropTypes
+3.3 Planning the Movie Component
