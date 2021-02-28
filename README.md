@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course (2019 Update!)
 
-3.3 Planning the Movie Component
+4.5 Cutting the summary
