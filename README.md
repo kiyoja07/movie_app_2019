@@ -2,4 +2,4 @@
 
 React JS Fundamentals Course (2019 Update!)
 
-5.0 Deploying to Github Pages
+6.0 Getting Ready for the Router
